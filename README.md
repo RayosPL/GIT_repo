@@ -1,2 +1,2 @@
-# Soneta
-Zadanie dla Soneta 
+# GIT_repo
+Testowe repo
